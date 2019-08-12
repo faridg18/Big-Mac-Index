@@ -2,7 +2,7 @@
 
 I recommend installing dependecies using yarn to avoid using conflicts with NPM
 ```bash
-yarn install
+yarn prepare && yarn install
 ```
 
 ## Running it
